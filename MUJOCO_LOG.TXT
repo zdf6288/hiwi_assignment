@@ -1,0 +1,6 @@
+Sun Nov 24 04:16:23 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 4. The simulation is unstable. Time = 0.0140.
+
+Mon Nov 25 22:50:48 2024
+ERROR: mjv_cameraInModel: mjvScene frustum_near too small
+
