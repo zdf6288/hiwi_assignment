@@ -1,5 +1,5 @@
 *.log
 node_modules/
 MUJOCO_LOG.TXT
-trajecotry.csv
+trajectory.csv
 __pycache__/
