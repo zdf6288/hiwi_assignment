@@ -8,8 +8,8 @@ from common.generate_xml import generate_scene_xml
 start = np.array([0.3, 0, 0.7])  # Start position
 end = np.array([0.7, 0, 0.7])  # End position
 obstacles = [  # List of obstacles
-    {"position": np.array([0.5, 0, 0.7]), "radius": 0.05},
-    #{"position": np.array([0.5, 0.2, 0.7]), "radius": 0.05}
+    {"position": np.array([0.4, 0.1, 0.7]), "radius": 0.03},
+    {"position": np.array([0.5, -0.1, 0.7]), "radius": 0.03}
 ]
 
 # Generate the XML file for the scene
